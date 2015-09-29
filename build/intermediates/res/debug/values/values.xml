@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/yongkun/Dropbox/BLEIndicator/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">블루투스 빈차등 테스터</string>
+    <string name="btn_discon">해제</string>
+    <string name="btn_empty">점등</string>
+    <string name="btn_occupied">예약</string>
+    <string name="btn_rest">휴무</string>
+    <string name="btn_scan">검색 시작</string>
+    <string name="label_control_panel">빈차 표시등 - 모델 확인 중</string>
+    <string name="label_device_list">빈차 표시등 선택 - 검색 중</string>
+    <string name="label_device_status">상태 확인 중</string>
+    <!-- From: file:/Users/yongkun/Dropbox/BLEIndicator/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

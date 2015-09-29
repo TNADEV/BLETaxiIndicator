@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yongkun/Dropbox/BLEIndicator/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9b6a9a9078af571732159b904ad423b03b7cc786">
+        <dex dex="/Users/yongkun/Dropbox/BLEIndicator/build/intermediates/pre-dexed/debug/android-support-v4-2cb9fda86035f4aae8c2554b5a5eb3aedecf068d.jar" />
+    </item>
+
+</items>

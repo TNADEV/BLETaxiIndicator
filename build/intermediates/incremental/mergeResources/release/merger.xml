@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/yongkun/Dropbox/BLEIndicator/res"><file name="ic_launcher" path="/Users/yongkun/Dropbox/BLEIndicator/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/yongkun/Dropbox/BLEIndicator/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/yongkun/Dropbox/BLEIndicator/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/Users/yongkun/Dropbox/BLEIndicator/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="/Users/yongkun/Dropbox/BLEIndicator/res/layout/activity_main.xml" qualifiers="" type="layout"/><file name="item_device" path="/Users/yongkun/Dropbox/BLEIndicator/res/layout/item_device.xml" qualifiers="" type="layout"/><file path="/Users/yongkun/Dropbox/BLEIndicator/res/values/strings.xml" qualifiers=""><string name="btn_occupied">예약</string><string name="label_device_list">빈차 표시등 선택 - 검색 중</string><string name="btn_empty">점등</string><string name="btn_rest">휴무</string><string name="app_name">블루투스 빈차등 테스터</string><string name="label_device_status">상태 확인 중</string><string name="btn_discon">해제</string><string name="label_control_panel">빈차 표시등 - 모델 확인 중</string><string name="btn_scan">검색 시작</string></file><file path="/Users/yongkun/Dropbox/BLEIndicator/res/values/styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="/Users/yongkun/Dropbox/BLEIndicator/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="/Users/yongkun/Dropbox/BLEIndicator/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file></source><source path="/Users/yongkun/Dropbox/BLEIndicator/build/generated/res/rs/release"/><source path="/Users/yongkun/Dropbox/BLEIndicator/build/generated/res/generated/release"/></dataSet><dataSet config="release"><source path="/Users/yongkun/Dropbox/BLEIndicator/build-types/release/res"/></dataSet><mergedItems/></merger>

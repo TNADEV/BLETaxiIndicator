@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">블루투스 빈차등 테스터</string>
+
+    <string name="btn_ok">확인</string>
+    <string name="btn_cancel">취소</string>
+    <string name="btn_scan">검색 시작</string>
+    <string name="btn_rescan">재검색</string>
+    <string name="btn_stop_scan">검색 중단</string>
+    <string name="btn_discon">해제</string>
+    <string name="btn_empty">점등</string>
+    <string name="btn_occupied">예약</string>
+    <string name="btn_rest">휴무</string>
+
+    <string name="label_device_list">빈차 표시등 선택 - 검색 중</string>
+    <string name="label_device_list_complete">빈차 표시등 선택 - 검색 완료</string>
+    <string name="label_control_panel">빈차 표시등 - 모델 확인 중</string>
+    <string name="label_device_status">상태 확인 중</string>
+
+    <string name="toast_bt_on">블루투스가 켜졌습니다.</string>
+    <string name="toast_bt_off">블루투스가 꺼졌습니다.</string>
+    <string name="toast_bt_nc">블루투스 기능을 사용할 수 없습니다.</string>
+    <string name="toast_ble_nc">BLE 기능이 지원되지 않는 단말입니다.</string>
+    <string name="toast_uart_nc">UART 기능을 사용할 수 없습니다.</string>
+
+    <string name="dialog_quit_title">종료 확인</string>
+    <string name="dialog_quit_body">앱을 종료하시겠습니까?</string>
+
+</resources>
